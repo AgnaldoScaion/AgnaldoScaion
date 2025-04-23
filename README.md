@@ -88,6 +88,7 @@ Hello, I'm Agnaldo, I'm 17 years old and I'm a student at SESI/SENAI, currently 
   <a href="https://www.instagram.com/guiism__/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
+  
   <a href="https://www.linkedin.com/in/agnaldo-j%C3%BAnior-81364934b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>

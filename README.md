@@ -38,6 +38,14 @@ Hello, I'm Agnaldo, I'm 17 years old and I'm a student at SESI/SENAI, currently 
 />
 <img 
     align="left" 
+    alt="Dart" 
+    title="Dart"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 

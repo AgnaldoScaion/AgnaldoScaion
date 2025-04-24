@@ -9,7 +9,7 @@ Hello, I'm Agnaldo, I'm 17 years old and I'm a student at SESI/SENAI, currently 
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AgnaldoScaion&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=maroongold&hide_border=true" height="221" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AgnaldoScaion&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=maroongold&hide_border=true" height="171" alt="languages graph"  />
 
 <h2 align="left">🤖 Linguagens e Tecnologias</h2>
 <img 

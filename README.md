@@ -94,15 +94,6 @@ Hello, I'm Agnaldo, I'm 17 years old and I'm a student at SESI/SENAI, currently 
   </a>
 </div>
 
-###
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jimmyadmsenior/jimmyadmsenior/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jimmyadmsenior/jimmyadmsenior/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AgnaldoScaion/AgnaldoScaion/output/github-contribution-grid-snake.svg">
-</picture>
-<br><br>
-
 <div align="center">
 <br><p align="centre"><b>Contagem de Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{AgnaldoScaion}/count.svg" /></p> 

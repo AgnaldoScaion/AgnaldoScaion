@@ -93,8 +93,3 @@ Hello, I'm Agnaldo, I'm 17 years old and I'm a student at SESI/SENAI, currently 
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-<div align="center">
-<br><p align="centre"><b>Contagem de Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{AgnaldoScaion}/count.svg" /></p> 
-<br></div>

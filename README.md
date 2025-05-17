@@ -7,9 +7,13 @@ Of course, mistakes happen along the way, but I believe the most important thing
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AgnaldoScaion&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=maroongold&hide_border=false" height="222" alt="languages graph" />
+  <a href="https://github.com/iamgois">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AgnaldoScaion&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgnaldoScaion&layout=compact&langs_count=10&theme=dark"/>
+</div>
+  
 
-<h2 align="left">🤖 Languages and Technologies</h2>
+  ## Others Languages and Tools
 <img 
     align="left" 
     alt="HTML"
@@ -58,27 +62,24 @@ Of course, mistakes happen along the way, but I believe the most important thing
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
 
 <br/>
 <br/>
 
----
+<!-- Visualizadores do perfil-->
+<br><p align="left"><img src="https://komarev.com/ghpvc/?username=AgnaldoScaion&label=Profile%20views&color=0e75b6&style=flat" alt="iamgois" /></p> 
 
-<h2 align="left">Social</h2>
+<div>
+
+<a href="https://wa.me/5511983490572?text=Olá Agnaldo, vi seu perfil no GitHub." target="__blank">
+  <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
 
 <div align="left">
   <a href="https://www.instagram.com/guiism__/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-  
+
   <a href="https://www.linkedin.com/in/agnaldo-j%C3%BAnior-81364934b/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>

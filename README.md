@@ -68,18 +68,7 @@ Of course, mistakes happen along the way, but I believe the most important thing
 <!-- Visualizadores do perfil-->
 <br><p align="left"><img src="https://komarev.com/ghpvc/?username=AgnaldoScaion&label=Profile%20views&color=0e75b6&style=flat" /></p> 
 
-
-<div align="left">
-
-<a href="https://wa.me/5511983490572?text=Olá Agnaldo, vi seu perfil no GitHub." target="__blank">
-  <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a>
-
-  <a href="https://www.instagram.com/guiism__/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/agnaldo-j%C3%BAnior-81364934b/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-</div>
+<div>
+  <a href="[https://www.linkedin.com/in/AgnaldoScaion/](https://www.linkedin.com/in/agnaldo-j%C3%BAnior-81364934b/)" target="__blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/guiism__" target="__blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://wa.me/5511983490572?text=Olá Agnaldo, vi seu perfil no GitHub." target="__blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>

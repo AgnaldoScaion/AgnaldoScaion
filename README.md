@@ -7,9 +7,8 @@ Of course, mistakes happen along the way, but I believe the most important thing
 ---
 
 <div align="center">
-  <a href="https://github.com/iamgois">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AgnaldoScaion&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgnaldoScaion&layout=compact&langs_count=10&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AgnaldoScaion&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgnaldoScaion&layout=compact&langs_count=8&theme=dark"/>
 </div>
   
 
@@ -67,7 +66,7 @@ Of course, mistakes happen along the way, but I believe the most important thing
 <br/>
 
 <!-- Visualizadores do perfil-->
-<br><p align="left"><img src="https://komarev.com/ghpvc/?username=AgnaldoScaion&label=Profile%20views&color=0e75b6&style=flat" alt="iamgois" /></p> 
+<br><p align="left"><img src="https://komarev.com/ghpvc/?username=AgnaldoScaion&label=Profile%20views&color=0e75b6&style=flat" /></p> 
 
 <div>
 

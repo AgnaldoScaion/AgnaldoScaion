@@ -69,7 +69,6 @@ Of course, mistakes happen along the way, but I believe the most important thing
 
 <div>
   <a href="[https://www.linkedin.com/in/AgnaldoScaion/](https://www.linkedin.com/in/agnaldo-j%C3%BAnior-81364934b/)" target="__blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/guiism__" target="__blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://wa.me/5511983490572?text=Olá Agnaldo, vi seu perfil no GitHub." target="__blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://wa.me/5511983490572?text=Olá Agnaldo, vi seu perfil no GitHub e gostaria de fazer um projeto, consegue me auxiliar?" target="__blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
 <br><p align="left"><img src="https://komarev.com/ghpvc/?username=AgnaldoScaion&label=Profile%20views&color=0e75b6&style=flat" /></p> 

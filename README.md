@@ -1,9 +1,10 @@
 # 🖥 Agnaldo Júnior
 
-Hello, I’m Agnaldo, a 17-year-old student at SESI/SENAI, based at the SESI CE 125 campus. I’m really enjoying this experience because it gives me the chance to develop a variety of skills across different areas. I have a strong curiosity about how things work and what makes them function.
+Hello, I’m Agnaldo, a Computer Science student at Unimax and a technology enthusiast. My journey in tech started early, driven by curiosity about how digital systems work and how ideas turn into real solutions.
 
-Of course, mistakes happen along the way, but I believe the most important thing is to learn from those errors, fix them, and avoid repeating them. This approach helps me grow and improve every day.
+I believe mistakes are part of the learning process — what truly matters is understanding them, fixing them, and growing from each experience. This mindset helps me evolve not only as a developer, but also as a professional.
 
+Here on GitHub, you’ll find projects that reflect my continuous learning, experimentation, and passion for building things that make a difference.
 ---
 
 <div align="center">
